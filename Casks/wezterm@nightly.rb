@@ -1,4 +1,4 @@
-cask "wezterm-nightly" do
+cask "wezterm@nightly" do
   version :latest
   sha256 :no_check
 
